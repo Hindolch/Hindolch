@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **Machine learning, python, C++, statistics**
+- 💬 Ask me about **Machine learning, statistics**
 
 - 📫 How to reach me **roychoudhuryhindol@gmail.com**
 
