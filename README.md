@@ -10,7 +10,7 @@
 ### 🚀 What I'm Up To
 - 🔭 Working on **reimplementing SOTA ML models** from scratch to go deep, not wide
 - 🌱 Learning **Graph Neural Networks** – because graphs + deep learning = 💥
-- 👨‍💻 Projects: [hindolchoudhury.carrd.co](https://hindolchoudhury.carrd.co/)
+- 👨‍💻 Portfolio: [hindolchoudhury.carrd.co](https://hindolchoudhury.carrd.co/)
 - 💬 Ask me about: `Machine Learning`, `Deep Learning`, `NLP`
 - 📫 Reach me at: **roychoudhuryhindol@gmail.com**
 - ⚡ Fun fact: _"I think I’ve a good sense of humor. My models disagree. We’re working on it."_ 🤝
