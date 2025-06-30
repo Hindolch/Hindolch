@@ -20,7 +20,7 @@
 ### 🔗 Connect with Me
 <p align="left">
   <a href="https://twitter.com/hindollllll" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/></a>
-  <a href="https://linkedin.com/in/hindol choudhury" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/></a>
+  <a href="https://linkedin.com/in/hindol-choudhury" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/></a>
 </p>
 
 ---
