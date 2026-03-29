@@ -1,1 +1,1 @@
-Building backend systems and machine learning infrastructure from gradients to production.
+Theory and code merging together to come to life
